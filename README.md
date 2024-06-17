@@ -1,2 +1,2 @@
 # Prepcoursehenry
-Este es un repositorio del modulo2 del precourse henry
+Este es un repositorio es una prueba de como clonarlo y pegarlo en mi pc
